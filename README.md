@@ -1,5 +1,9 @@
 # community-design-resources
 
+## Quick Links
+
+- [Mobile Wallpapers](./mobile-wallpapers)
+
 ## License
 
 The design assets in this repository are licensed under CC BY-NC-SA 4.0, allowing non-commercial use, modification, and sharing with attribution.
