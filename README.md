@@ -2,6 +2,8 @@
 
 ## Quick Links
 
+<img height=800 src="./mobile-wallpapers/collection.jpg" />
+
 - [Mobile Wallpapers](./mobile-wallpapers)
 
 ## License
