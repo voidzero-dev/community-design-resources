@@ -1,0 +1,12 @@
+{
+  "name": "@voidzero-dev/community-design-resources",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "optimize": "node optimize.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.8",
+    "svgo": "^4.0.0"
+  }
+}
